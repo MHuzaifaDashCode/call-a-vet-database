@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026235616174",
+    "project_id": "call-a-vet",
+    "storage_bucket": "call-a-vet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026235616174:android:451717542605de2317563f",
+        "android_client_info": {
+          "package_name": "com.example.call_a_vet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026235616174-rvtl67cutt2ogu2usgjbqgq1enqmq3f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.call_a_vet",
+            "certificate_hash": "63eb3b4875ea33e499d7673264033b63a3825a25"
+          }
+        },
+        {
+          "client_id": "1026235616174-ut5gcgasfai6i772uinv0391mdmn3old.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnwnYUXNkP9K0akCOOFBEG97GdWyihiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026235616174-ut5gcgasfai6i772uinv0391mdmn3old.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
